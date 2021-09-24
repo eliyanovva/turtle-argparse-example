@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: drawing
+Version: 0.1
+Summary: A package which draws right polygons.
+Home-page: https://github.com/eliyanovva/turtle-argparse-example
+Author: Tedy
+Author-email: tedy@example.com
+License: MIT
+Description: The package can draw any kinds of a right polygon on the whiteboard.
+Platform: UNKNOWN

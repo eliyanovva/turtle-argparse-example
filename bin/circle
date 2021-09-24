@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+
+import drawing.shape as dw
+dw.draw_shape(1, 360, 1)
